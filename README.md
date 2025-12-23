@@ -31,7 +31,7 @@
 
 ### Considerações gerais
 <div align="center">
-  Na tecnologia, sou motivado pelas soluções dos mais variados problemas. Tenho estudado para me tornar cada vez mais competente no que eu me propuser a fazer!\n
+  Na tecnologia, sou motivado pelas soluções dos mais variados problemas. Tenho estudado para me tornar cada vez mais competente no que eu me propuser a fazer!
 </div>
 
 ### Contato
