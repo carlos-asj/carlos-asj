@@ -34,7 +34,7 @@
   Na tecnologia, sou motivado pelas soluções dos mais variados problemas. Tenho estudado para me tornar cada vez mais competente no que eu me propuser a fazer!
 </div>
 
-### Contato
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/carlos-alberto-new/" target="_blank">
