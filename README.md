@@ -1,6 +1,6 @@
 <h1 align="center">Olá! 👋</h1>
 
-### Tecnologias que tenho familiaridade:
+### Tecnologias que tenho familiaridade
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
@@ -28,13 +28,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
 </div>
-###
 
+### Considerações gerais
 <div align="center">
   Na tecnologia, sou motivado pelas soluções dos mais variados problemas. Tenho estudado para me tornar cada vez mais competente no que eu me propuser a fazer!\n
 </div>
 
-### Contato:
+### Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/carlos-alberto-new/" target="_blank">
