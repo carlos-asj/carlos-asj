@@ -31,7 +31,8 @@
 
 ### Considerações gerais
 <div align="left">
-  Na tecnologia, sou motivado pelas soluções dos mais variados problemas. Tenho estudado para me tornar cada vez mais competente no que eu me propuser a fazer!
+  <p>Na tecnologia, sou motivado pelas soluções dos mais variados problemas. Tenho estudado para me tornar cada vez mais competente no que eu me propuser a fazer!</p>
+    Atualmente estou estudando ADS no Instituto Federal de Ciência e Tecnologia da Bahia.
 </div>
 
 ###
